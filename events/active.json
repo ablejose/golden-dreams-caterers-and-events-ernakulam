@@ -1,0 +1,59 @@
+{
+  "slug": "golden-dreams-caterers-and-events-ernakulam",
+  "name": "Golden Dreams Caterers & Events",
+  "shortName": "Golden Dreams",
+  "descriptor": "Catering & Events",
+  "address": "Kureekad, Chottanikkara, Thrippunithura, Ernakulam, Keralam 682305",
+  "area": "Chottanikkara",
+  "city": "Ernakulam",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "682305",
+  "geo": {
+    "lat": 9.9258125,
+    "lng": 76.37531249999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=16669986553615245012",
+  "phone": "+91 93888 55115",
+  "whatsapp": "919388855115",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.8,
+  "reviewCount": 109,
+  "reviews": [
+    {
+      "name": "Jineeb",
+      "rating": 5,
+      "quote": "Golden Dream Catering has been a part of every important celebration in our family, right from our wedding six years ago to our son’s birthday function last week. Their food has always been outstanding, with every dish full of authentic flavor and prepared to perfection."
+    },
+    {
+      "name": "sethulakshmi pv",
+      "rating": 5,
+      "quote": "We have been choosing Golden Dream Catering, led by Mr. Ajith Kumar, for all our family functions — including our engagement and wedding — and they have never disappointed us. Their service is truly exceptional!"
+    },
+    {
+      "name": "Sooraj T",
+      "rating": 5,
+      "quote": "We hired them for our engagement ceremony. The buffet arrangement was elegant and well organized. The starters were especially delicious. A small delay in serving, but overall a wonderful experience"
+    },
+    {
+      "name": "Arathy Nair",
+      "rating": 5,
+      "quote": "From the first meeting to the end of the event, the catering team handled everything smoothly and efficiently. They understood our requirements clearly and delivered exactly what they promised. The food tasted amazing, and the variety in the menu impressed everyone."
+    },
+    {
+      "name": "Aleena Denny",
+      "rating": 4,
+      "quote": "We had a wonderful experience with Golden Dreams Catering Service. The quality of the food was exceptional, the service was prompt, and the entire team was courteous and attentive. Our guests were full of compliments. Highly recommend their services for any event."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://golden-dreams-caterers-and-events-e.vercel.app"
+}
